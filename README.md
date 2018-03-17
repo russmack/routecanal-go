@@ -2,11 +2,9 @@
 
 A Go HTTP router.
 
-![Progress](http://progressed.io/bar/1?title=started)
+![Status](https://img.shields.io/badge/status-status-green.svg)
 [![Build Status](https://travis-ci.org/russmack/routecanal-go.svg?branch=master)](https://travis-ci.org/russmack/routecanal-go)
 
----
-#### Status: started.
 ---
 
 ## Usage

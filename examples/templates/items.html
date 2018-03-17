@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+
+        <link href="css/style.css" rel="stylesheet">
+
+    </head>
+
+    <body class="body-style">
+        Items
+        <div class="header plain-title">
+            {{.Title}}
+        </div>
+
+        <hr class="style-two" />
+
+        <div class="content">
+            {{range .Items}}
+            - {{.}}
+            <br />
+            {{end}}
+        </div>
+    </body>
+</html>
+
