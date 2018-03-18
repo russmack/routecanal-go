@@ -2,7 +2,7 @@
 
 A Go HTTP router.
 
-![Status](https://img.shields.io/badge/status-status-green.svg)
+![Status](https://img.shields.io/badge/status-stable-green.svg)
 [![Build Status](https://travis-ci.org/russmack/routecanal-go.svg?branch=master)](https://travis-ci.org/russmack/routecanal-go)
 
 ---
